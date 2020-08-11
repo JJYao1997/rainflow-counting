@@ -17,5 +17,5 @@ Algorithm introduction:
     4.The range of X, denoted by r(X), is the absolute value of the difference between the amplitude of the first point and the amplitude of the second point. The definition of r(Y) is analogous.
 
 Project introduction:
-    The rainflow algorithm flowchart included in algorithm_flowchart.png, efforts made by myself to realize the function following the  algorithm mentioned above provided by @MATLAB.
+    The rainflow algorithm flowchart included in algorithm_flowchart.png, efforts made by myself to realize the function following the algorithm mentioned above provided by @MATLAB.
     Code is presented in rainflow_counting.m, this function load a series of raw data and output the start point, end point, amplitude, mean-value, and cycle number for each loop.
